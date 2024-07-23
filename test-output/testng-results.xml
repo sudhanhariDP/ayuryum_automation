@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-16T21:24:36 IST" name="Default suite" finished-at="2024-04-16T21:25:57 IST" duration-ms="80549">
+    <groups>
+    </groups>
+    <test started-at="2024-04-16T21:24:36 IST" name="Default test" finished-at="2024-04-16T21:25:57 IST" duration-ms="80549">
+      <class name="userpagetest.UserPageTest">
+        <test-method is-config="true" signature="StartApp()[pri:0, instance:userpagetest.UserPageTest@1fa268de]" started-at="2024-04-16T21:24:36 IST" name="StartApp" finished-at="2024-04-16T21:24:49 IST" duration-ms="12507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartApp -->
+        <test-method signature="TestCase()[pri:1, instance:userpagetest.UserPageTest@1fa268de]" started-at="2024-04-16T21:24:49 IST" name="TestCase" finished-at="2024-04-16T21:24:50 IST" duration-ms="1148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase -->
+        <test-method is-config="true" signature="CloseApp()[pri:0, instance:userpagetest.UserPageTest@1fa268de]" started-at="2024-04-16T21:24:50 IST" name="CloseApp" finished-at="2024-04-16T21:24:50 IST" duration-ms="395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+        <test-method is-config="true" signature="StartApp()[pri:0, instance:userpagetest.UserPageTest@1fa268de]" started-at="2024-04-16T21:24:50 IST" name="StartApp" finished-at="2024-04-16T21:24:57 IST" duration-ms="6629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartApp -->
+        <test-method signature="TestCase2()[pri:2, instance:userpagetest.UserPageTest@1fa268de]" started-at="2024-04-16T21:24:57 IST" name="TestCase2" finished-at="2024-04-16T21:25:02 IST" duration-ms="4719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase2 -->
+        <test-method is-config="true" signature="CloseApp()[pri:0, instance:userpagetest.UserPageTest@1fa268de]" started-at="2024-04-16T21:25:02 IST" name="CloseApp" finished-at="2024-04-16T21:25:02 IST" duration-ms="440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+        <test-method is-config="true" signature="StartApp()[pri:0, instance:userpagetest.UserPageTest@1fa268de]" started-at="2024-04-16T21:25:02 IST" name="StartApp" finished-at="2024-04-16T21:25:07 IST" duration-ms="5272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartApp -->
+        <test-method signature="TestCase3()[pri:3, instance:userpagetest.UserPageTest@1fa268de]" started-at="2024-04-16T21:25:07 IST" name="TestCase3" finished-at="2024-04-16T21:25:10 IST" duration-ms="2599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase3 -->
+        <test-method is-config="true" signature="CloseApp()[pri:0, instance:userpagetest.UserPageTest@1fa268de]" started-at="2024-04-16T21:25:10 IST" name="CloseApp" finished-at="2024-04-16T21:25:10 IST" duration-ms="451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+        <test-method is-config="true" signature="StartApp()[pri:0, instance:userpagetest.UserPageTest@1fa268de]" started-at="2024-04-16T21:25:10 IST" name="StartApp" finished-at="2024-04-16T21:25:16 IST" duration-ms="5836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartApp -->
+        <test-method signature="TestCase4()[pri:4, instance:userpagetest.UserPageTest@1fa268de]" started-at="2024-04-16T21:25:16 IST" name="TestCase4" finished-at="2024-04-16T21:25:17 IST" duration-ms="662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase4 -->
+        <test-method is-config="true" signature="CloseApp()[pri:0, instance:userpagetest.UserPageTest@1fa268de]" started-at="2024-04-16T21:25:17 IST" name="CloseApp" finished-at="2024-04-16T21:25:17 IST" duration-ms="369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+        <test-method is-config="true" signature="StartApp()[pri:0, instance:userpagetest.UserPageTest@1fa268de]" started-at="2024-04-16T21:25:17 IST" name="StartApp" finished-at="2024-04-16T21:25:22 IST" duration-ms="5181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartApp -->
+        <test-method signature="TestCase5()[pri:5, instance:userpagetest.UserPageTest@1fa268de]" started-at="2024-04-16T21:25:22 IST" name="TestCase5" finished-at="2024-04-16T21:25:48 IST" duration-ms="25984" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase5 -->
+        <test-method is-config="true" signature="CloseApp()[pri:0, instance:userpagetest.UserPageTest@1fa268de]" started-at="2024-04-16T21:25:48 IST" name="CloseApp" finished-at="2024-04-16T21:25:49 IST" duration-ms="284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+        <test-method is-config="true" signature="StartApp()[pri:0, instance:userpagetest.UserPageTest@1fa268de]" started-at="2024-04-16T21:25:49 IST" name="StartApp" finished-at="2024-04-16T21:25:55 IST" duration-ms="6600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartApp -->
+        <test-method signature="TestCase6()[pri:6, instance:userpagetest.UserPageTest@1fa268de]" started-at="2024-04-16T21:25:55 IST" name="TestCase6" finished-at="2024-04-16T21:25:56 IST" duration-ms="618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase6 -->
+        <test-method is-config="true" signature="CloseApp()[pri:0, instance:userpagetest.UserPageTest@1fa268de]" started-at="2024-04-16T21:25:56 IST" name="CloseApp" finished-at="2024-04-16T21:25:57 IST" duration-ms="761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- userpagetest.UserPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
